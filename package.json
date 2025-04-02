@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "pdf.js": "^0.1.0"
+  }
+}
